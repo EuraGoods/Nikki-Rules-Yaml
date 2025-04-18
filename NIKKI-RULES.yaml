@@ -116,7 +116,7 @@ proxy-groups: #节点分组都可以自定义
   - {name: 🤖 ChatGPT,!!merge <<: *pr}
   - {name: 👨🏿‍💻 GitHub,!!merge <<: *pr}
   - {name: 🐬 OneDrive,!!merge <<: *pr}
-  - {name: 🪟 Microsoft,!!merge <<: *pr}
+  - {name: Ⓜ️ Microsoft,!!merge <<: *pr}
   - {name: 🎵 TikTok,!!merge <<: *pr}
   - {name: 📲 Telegram,!!merge <<: *pr}
   - {name: 🎥 NETFLIX,!!merge <<: *pr}
@@ -151,7 +151,7 @@ rules:
   - RULE-SET,youtube_domain,📹 YouTube
   - RULE-SET,google_domain,🍀 Google
   - RULE-SET,onedrive_domain,🐬 OneDrive
-  - RULE-SET,microsoft_domain,🪟 Microsoft
+  - RULE-SET,microsoft_domain,Ⓜ️ Microsoft
   - RULE-SET,tiktok_domain,🎵 TikTok
   - RULE-SET,speedtest_domain,✈️ Speedtest
   - RULE-SET,telegram_domain,📲 Telegram
